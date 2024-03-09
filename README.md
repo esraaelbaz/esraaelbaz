@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there ^^
 
 # 💫 About Me:
-🔭 I’m currently working on ZAZ company for ODOO developing<br>🐱‍🏍 I'm interested in ML &  DL<br>⚡I have my own  brand for handmade stuff 
+🔭 I’m currently working at ZAZ company for ODOO developing<br>🐱‍🏍 I'm interested in ML &  DL<br>⚡I have my own  brand for handmade stuff 
 
 
 ## 🌐 Socials:
